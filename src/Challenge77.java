@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge72 {
+public class Challenge77 {
 
     public static Scanner scanner = new Scanner(System.in);
 
